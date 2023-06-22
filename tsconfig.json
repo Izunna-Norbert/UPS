@@ -1,0 +1,5 @@
+//add jsx preserve
+
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+}
